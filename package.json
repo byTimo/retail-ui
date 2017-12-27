@@ -44,6 +44,7 @@
     "add-event-listener": "0.0.1",
     "brcast": "^3.0.1",
     "classnames": "^2.2.5",
+    "create-react-context": "^0.1.2",
     "exenv": "^1.2.2",
     "fbemitter": "^2.1.1",
     "fbjs": "^0.8.16",
